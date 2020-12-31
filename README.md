@@ -71,6 +71,6 @@ The original dataset can be downloaded from [ here ](https://drive.google.com/fi
 
 <p align="center">
 	Made with :heart: by DSC VIT
-	:smile: Made in India :heart: & Made for India :india:
+	:smile: Made in India :heart: & Made for India 
 </p>
 
